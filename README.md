@@ -14,4 +14,4 @@ Then every 5 minutes the patch will be saved!  If you want to change how often t
 Note: I've tried encapsulation but "write -- thispatcher" will only save the work that has been done in the patch window that thispatcher is in. 
 (a little obvious from the name but I still wanted to try :)
 
-I wonder if anyone else has a more ellegant solution? 
+I wonder if anyone else has a more elegant solution? 
