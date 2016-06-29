@@ -1,5 +1,5 @@
 # Max-Autosave
-Autosave feature for MaxMSP (pre 7)
+Autosave feature for MaxMSP (pre Max7)
 
 I got tired of Max crashing and not having saved in a while so I wrote this template patch to auto save every 5 minutes.
 
